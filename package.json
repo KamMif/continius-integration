@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "pre-commit": "npm test"
+    "precommit": "npm test"
   },
   "husky": {
     "hooks": {
