@@ -1,0 +1,16 @@
+{
+  "name": "continius-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "jest": "^22.4.3"
+  }
+}
